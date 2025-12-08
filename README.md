@@ -1,2 +1,94 @@
 # manhlanhchanh.github.io
-Mai Anh's Website
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/jpg/png" href="images/Mai Anh’s Website Logo.png">
+    <title>Mai Anh's 1st Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body align="center">
+    <div class="abc">
+        Advertisement
+    </div>
+    <div class="xyz">
+    <a href="index.html">
+        <img src="images/Mai Anh’s Website Logo.png" alt="Logo"
+        height="50" width="100" align="left">
+    </a>
+    <br>
+    <br>
+    <br>
+    <div align="center" class="dropdown">
+        <button class="button"><a href="index.html">TRANG CHỦ</a></button>
+    </div>
+    <div align="center" class="dropdown">
+        <button class="button"><a href="món ăn yêu thích.html">MÓN ĂN YÊU THÍCH</a></button>
+        <div class="content">
+            <a href="món ăn Việt Nam.html" align="left">Món ăn Việt Nam</a>
+            <a href="món ăn Hàn Quốc.html" align="left">Món ăn Hàn Quốc</a>
+            <a href="món ăn Nhật Bản.html" align="left">Món ăn Nhật Bản</a>
+        </div>
+    </div>
+    <div align="center" class="dropdown">
+        <button class="button"><a href="bài hát yêu thích.html">BÀI HÁT YÊU THÍCH</a></button>
+        <div class="content">
+            <a href="i love u 3000.html" align="left">I love you 3000 - Stephanie Poetri</a>
+            <a href="we fell in ...html" align="left">We fell in love in October - girl in red</a>
+            <a href="thằng điên.html" align="left">Thằng điên - JustaTee</a>
+        </div>
+    </div>
+    <div align="center" class="dropdown">
+        <button class="button"><a href="hoạt động vui chơi yêu thích.html">HOẠT ĐỘNG VUI CHƠI YÊU THÍCH</a></button>
+        <div class="content">
+            <a href="hoạt động thể chất.html" align="left">Hoạt động thể chất</a>
+            <a href="cafe.html" align="left">Cafe</a>
+            <a href="workshop.html" align="left">Handmade workshop</a>
+        </div>
+    </div>
+    <big><h1 align="center">Đây là trang web riêng của Mai Anh</h1></big>
+    <h3 align="center">Dưới đây là một số thông tin cơ bản về Mai Anh</h3>
+    <br>
+    <table align="center" border="1" style="background-color:rgb(97, 70, 18);">
+        <tr align="left" style="background-color: rgb(244, 245, 234);">
+            <th width="250"><br>1. Họ tên: <br><br></th>
+            <th width="350">Phạm Mai Anh</th>
+        </tr>
+        <tr align="left" style="background-color: rgb(244, 245, 234);">
+            <th width="250"><br>2. Cung hoàng đạo: <br> <br></th>
+            <th width="350">Bảo Bình</th>
+        </tr>
+        <tr align="left" style="background-color: rgb(244, 245, 234);">
+            <th width="250">3. Màu sắc yêu thích:</th>
+            <th width="350">
+                <br>
+                Xanh dương, hồng nhạt
+                <br>
+                <br>
+                <img src="images/fav color.png" alt="pastel blue and pink blend"
+                height="100" width="300">
+            </th>
+        </tr>
+         <tr align="left" style="background-color: rgb(244, 245, 234);">
+            <th width="250"><br>4. Môn học yêu thích: <br><br></th>
+            <th width="350">Toán, Tin học</th>
+        </tr>
+         <tr align="left" style="background-color: rgb(244, 245, 234);">
+            <th width="250">5. Loài hoa yêu thích:</th>
+            <th width="350">
+                <br>
+                Baby's breath
+                <br>
+                <br>
+                <img src="images/fav flower.png" alt="baby's breath"
+                height="150" width="300">
+            </th>
+        </tr>
+    </table>
+    </div>
+    <div class="abc">
+        Advertisement
+    </div>
+</body>
+</html>
